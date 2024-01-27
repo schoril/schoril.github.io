@@ -1,1 +1,3 @@
-# schoril.github.io
+# Lior Schori
+
+## Personal information
