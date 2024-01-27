@@ -12,8 +12,8 @@ Weizmann institute of science </p>
 GitHub: [schoril](https://github.com/schoril).<br> 
 GitHub page: [Lior Schori](https://schoril.github.io/).<br> 
 LinkedIn: [Lior Schori](www.linkedin.com/in/lior-schori-082a2a224).<br>
-
-
+ <br>
+ <br>
 
 
 
