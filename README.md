@@ -1,4 +1,4 @@
-# Lior Schori
+
 
 ## Personal information
 
