@@ -9,7 +9,6 @@ Weizmann institute of science </p>
 <img style="float: left; margin: 0px 20px 0px 0px;" width="150" height="150" src="https://pbs.twimg.com/media/F42QSKgW8AAxZ-_.jpg">
 
 <br>
-<br>
 
 GitHub: [schoril](https://github.com/schoril).<br> 
 GitHub page: [Lior Schori](https://schoril.github.io/).<br> 
