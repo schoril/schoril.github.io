@@ -1,10 +1,11 @@
-# Lior Schori
+
 
 ## Personal information
 
 <p> Phd Student, Prof. Steffen Jung lab <br>
 Weizmann institute of science </p>
 
+<p> ---
 <img style="float: left; margin: 0px 20px 0px 0px;" width="150" height="150" src="https://pbs.twimg.com/media/F42QSKgW8AAxZ-_.jpg">
 
 
@@ -14,3 +15,4 @@ LinkedIn: [Lior Schori](www.linkedin.com/in/lior-schori-082a2a224).<br>
 
 
 
+<p> ---
